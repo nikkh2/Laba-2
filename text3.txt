@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 change in master
+=======
+change in hotfix text 3
+>>>>>>> hotfix
